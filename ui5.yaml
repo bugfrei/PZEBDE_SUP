@@ -1,6 +1,6 @@
 specVersion: "3.1"
 metadata:
-  name: zahr_pzebde.zahr_pzebde
+  name: zahr_pzebde.zahr_pzebde2
 type: application
 server:
   customMiddleware:

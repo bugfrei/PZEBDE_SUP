@@ -1,7 +1,7 @@
 {
     "_version": "1.12.0",
     "sap.app": {
-        "id": "ZAHR_PZEBDE.ZAHR_PZEBDE",
+        "id": "ZAHR_PZEBDE.ZAHR_PZEBDE2",
         "type": "application",
         "i18n": "i18n/i18n.properties",
         "applicationVersion": {
